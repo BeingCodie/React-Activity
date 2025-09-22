@@ -1,0 +1,7 @@
+.ProductTab{
+ display: flex;          /* row layout */
+  justify-content: center; /* center horizontally */
+  gap: 20px;              /* spacing between cards */
+  flex-wrap: wrap;  
+  align-items: center;
+}
